@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>PropWrapSharp</RootNamespace>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageId>Mmzkworks.StorageSharp</PackageId>
+    <Title>Mmzkworks.StorageSharp</Title>
+    <Authors>uisawara</Authors>
+    <Company>mmzkworks</Company>
+    <Description>Runtime Structured Properties</Description>
+    <RepositoryUrl>https://github.com/uisawara/Mmzkworks.PropertyTree</RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

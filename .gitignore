@@ -1,0 +1,11 @@
+﻿PropertyTree/bin
+PropertyTree/obj
+PropertyTree.Tests/bin
+PropertyTree.Tests/obj
+PropertyTree.Tests/Benchmarks/obj
+PropertyTree.Tests/Benchmarks/bin
+PropertyTree.Tests/Benchmarks/BenchmarkDotNet.Artifacts
+.vs
+.idea
+*.user
+BenchmarkDotNet.Artifacts
