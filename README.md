@@ -2,6 +2,10 @@
 
 Runtime Structured Properties
 
+[![CI/CD Pipeline](https://github.com/uisawara/Mmzkworks.PropertyTree/actions/workflows/ci.yml/badge.svg)](https://github.com/uisawara/Mmzkworks.PropertyTree/actions/workflows/ci.yml)
+
+## Sample code
+
 ```c#
 root = new PropertyGroup("Root", new[] {
     new PropertyGroup("GroupA", new[] {
